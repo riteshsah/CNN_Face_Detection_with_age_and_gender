@@ -1,2 +1,2 @@
 # CNN_Face_Detection_with_age_and_gender
- Simple Face Recognition Project which shows Age and Gender of detected face, it uses CNN pretrained model
+ Simple Face Detection Project which shows Age and Gender of detected face, it uses CNN pretrained model
